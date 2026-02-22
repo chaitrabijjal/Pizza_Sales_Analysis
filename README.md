@@ -1,4 +1,5 @@
- 🍕 Pizza Sales Analysis – SQL & Tableau Dashboard  
+ # <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ce4ff7e3-1416-4994-9990-fd8ceb458c5a" />
+ Pizza Sales Analysis – SQL & Tableau Dashboard  
 
 _Analyzing pizza sales data to uncover revenue trends, customer ordering behavior, and product performance insights using MS SQL Server and Tableau._
 
