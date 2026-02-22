@@ -45,7 +45,7 @@ This project transforms raw transactional data into meaningful performance insig
 
 <h2 id="dataset">📂 Dataset</h2>
 
-Pizza Sales Dataset – Excel File  
+Pizza Sales Dataset – <a href="https://github.com/chaitrabijjal/Pizza_Sales_Analysis/blob/c7e743ae5a7778870ce36ec40e4ea03ec29a0a69/pizza_sales.csv">CSV/Excel File.</a>  
 
 Dataset includes:
 - Order ID  
