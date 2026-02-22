@@ -1,4 +1,4 @@
- # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bc79b2e7-0a6e-4036-a971-14ec8bf8c59a" />Pizza Sales Analysis – SQL & Tableau Dashboard  
+ # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bc79b2e7-0a6e-4036-a971-14ec8bf8c59a" /> Pizza Sales Analysis – SQL & Tableau Dashboard  
 
 Analyzing pizza sales data to uncover revenue trends, customer ordering behavior, and product performance insights using MS SQL Server and Tableau.
 
@@ -45,7 +45,7 @@ This project transforms raw transactional data into meaningful performance insig
 
 <h2 id="dataset">📂 Dataset</h2>
 
-Pizza Sales Dataset – CSV / Excel File  
+Pizza Sales Dataset – Excel File  
 
 Dataset includes:
 - Order ID  
