@@ -67,7 +67,6 @@ Dataset includes:
 
 - **MS SQL Server** – Data cleaning and KPI calculation  
 - **Tableau** – Interactive dashboard visualization  
-- **Excel** – Data validation  
 
 ### SQL Concepts Used:
 `SUM()`, `COUNT()`, `DISTINCT`, `DATEPART()`, `GROUP BY`, `ORDER BY`, `CAST()`, `SUBQUERIES`
@@ -136,7 +135,6 @@ The Tableau dashboard includes:
 ✔ Bottom 5 Worst Sellers  
 
 ![Pizza Sales Dashboard](Home Page.png)
-```
 
 ---
 
