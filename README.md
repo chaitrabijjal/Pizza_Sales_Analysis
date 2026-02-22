@@ -134,7 +134,8 @@ The Tableau dashboard includes:
 ✔ Top 5 Best Sellers  
 ✔ Bottom 5 Worst Sellers  
 
-![Pizza Sales Dashboard](https://github.com/chaitrabijjal/Pizza_Sales_Analysis/blob/e31bb812221a366eeb947d48110f160d83812e0b/Home%20Page.png)
+![Pizza Sales Home Dashboard](https://github.com/chaitrabijjal/Pizza_Sales_Analysis/blob/e31bb812221a366eeb947d48110f160d83812e0b/Home%20Page.png)
+![Pizza Sales Best/Worts Sallers Dashboard](https://github.com/chaitrabijjal/Pizza_Sales_Analysis/blob/e31bb812221a366eeb947d48110f160d83812e0b/Sallers%20Page.png)
 
 ---
 
