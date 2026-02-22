@@ -51,10 +51,14 @@ Dataset includes:
 - Order ID  
 - Order Date  
 - Order Time  
-- Pizza Name  
+- Pizza Name ID
+- Pizza Name
+- Pizza ID
 - Pizza Category  
-- Pizza Size  
-- Quantity  
+- Pizza Size
+- Pizza Ingredients
+- Quantity
+- Unit Price
 - Total Price  
 
 ---
