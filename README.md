@@ -1,4 +1,4 @@
- # <<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/efb56d34-b468-4982-8eeb-2549e9cffa5c" />Pizza Sales Analysis – SQL & Tableau Dashboard  
+ # <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/efb56d34-b468-4982-8eeb-2549e9cffa5c" />Pizza Sales Analysis – SQL & Tableau Dashboard  
 
 _Analyzing pizza sales data to uncover revenue trends, customer ordering behavior, and product performance insights using MS SQL Server and Tableau._
 
