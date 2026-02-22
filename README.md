@@ -131,11 +131,7 @@ The Tableau dashboard includes:
 ✔ Top 5 Best Sellers  
 ✔ Bottom 5 Worst Sellers  
 
-(Add your Tableau dashboard screenshots here)
-
-Example:
-```
-![Pizza Sales Dashboard](Pizza_Tableau_1.jpg)
+![Pizza Sales Dashboard](Home Page.png)
 ```
 
 ---
