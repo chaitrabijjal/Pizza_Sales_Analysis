@@ -1,4 +1,4 @@
- # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bc79b2e7-0a6e-4036-a971-14ec8bf8c59a" /> Pizza Sales Analysis – SQL & Tableau Dashboard  
+# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bc79b2e7-0a6e-4036-a971-14ec8bf8c59a" /> Pizza Sales Analysis – SQL & Tableau Dashboard  
 
 Analyzing pizza sales data to uncover revenue trends, customer ordering behavior, and product performance insights using MS SQL Server and Tableau.
 
@@ -172,4 +172,3 @@ Data Analyst
 
 📧 Email: chaitrabijjal15@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/chaitra-bijjal-16577a3a9)
-#
